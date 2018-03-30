@@ -55,7 +55,8 @@
     "lodash": "^4.17.5",
     "lodash-es": "^4.17.5",
     "loose-envify": "^1.1.0",
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "react-is": "^16.3.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
